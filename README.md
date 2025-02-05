@@ -95,8 +95,12 @@ The analysis shows that specific retention strategies can significantly affect n
 - **Churn Prediction:** The model provided accurate predictions for customer churn, enabling targeted retention.
 - **Financial Impact:** Retention costs have a critical threshold beyond which net profit decreases. Visualizations provide insights into optimal retention costs per customer to maximize profitability.
 
-### Author
+## License
+This project is licensed under the MIT License.
 
-Adam Rivard-Walter  
-For further questions or inquiries, please reach out on LinkedIn or GitHub.
+## Contact
+For questions or feedback, feel free to reach out:
+- **Email:** Adam.RivardWalter@gmail.com  
+- **GitHub:** [adamw80](https://github.com/adamw80)
+
 
